@@ -2,6 +2,7 @@ window.onload = function(){
 	document.getElementById("butt").onclick = function() {
 		loadDoc()
 	};
+	window.alert("Saludos, soy un cambio en JS");
 }
 
 function loadDoc() {
